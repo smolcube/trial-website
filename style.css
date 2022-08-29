@@ -1,0 +1,62 @@
+body{ 
+    background-color: #9C9EFE;
+    text-align: center;
+    font-family: 'El Messiri';
+    margin: 0;
+
+}
+
+.header{
+    background-color: #F9F5EB;
+    height: 100px; 
+    font-family: 'Sacramento';
+}
+
+
+.pic-container{
+    height: 700px;
+    width: 700px;
+    position: relative;
+}
+
+.cloud{
+    position: absolute;
+    left: 100px;
+    bottom: 400px;
+}
+
+.cloud2{
+    position: absolute;
+    left: 800px;
+    bottom: 500px;
+}
+
+.butterfly1{
+    position: absolute;
+    right: 300px;
+    bottom: 620px;
+}
+
+.fb{
+    position: relative;
+    top: 10px;
+}
+.mail{
+    position: relative;
+    top: 5px;
+}
+
+.phone{
+    position: relative;
+    top: 7px;
+}
+
+.skill-row{
+    position: relative;
+    bottom: 30px;
+}
+.ai{
+    position: relative;
+    bottom: 30px;
+    right: 15px;
+}
